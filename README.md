@@ -9,3 +9,12 @@
 
 ## Installation
 #### Project5 폴더 .c파일 실행
+
+
+# Mnist-Classification
+
+## Explanation
+### VGG16모델을 직접 구현하여, Mnist-Classification(손글씨 분류)를 실습
+
+## Installation
+#### mnist 폴더
